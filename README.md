@@ -11,8 +11,9 @@ To start ethereum node using ganache-cli
 * install Ganache-cli
 * run command 'ganache-cli' on terminal
 * it will create 10 accounts and corresponding private keys and a wallet like below
-$ ganache-cli
-Ganache CLI v6.12.2 (ganache-core: 2.13.2)
+
+## $ ganache-cli
+* Ganache CLI v6.12.2 (ganache-core: 2.13.2)
 
 Available Accounts
 ==================
