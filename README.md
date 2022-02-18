@@ -13,7 +13,8 @@ To start ethereum node using ganache-cli
 * it will create 10 accounts and corresponding private keys and a wallet like below
 
 ## $ ganache-cli
-* Ganache CLI v6.12.2 (ganache-core: 2.13.2)
+ 
+Ganache CLI v6.12.2 (ganache-core: 2.13.2)
 
 ### Available Accounts
 ==================
@@ -30,6 +31,7 @@ To start ethereum node using ganache-cli
 
 ### Private Keys
 ==================
+
 (0) 0x918fdb573e8bf53119d83f29b290f00d4c500719950703be4307fdccda1a8fec
 (1) 0xe7904a32a727066008c001bd7fbb314bb781c66294c64d172b8f1e1b8cfc462c
 (2) 0x41a3c720072a33071c24c066947793f3fbd8ffd56f982476bf6b7d83f6ea79e8
@@ -43,6 +45,7 @@ To start ethereum node using ganache-cli
 
 ### HD Wallet
 ==================
+
 Mnemonic:      "dolphin fiction document sunny place link black innocent pencil soda orcccc unuxxxx"
 Base HD Path:  m/44'/60'/0'/0/{account_index}
 
